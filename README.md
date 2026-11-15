@@ -1,6 +1,7 @@
 # Hi, I'm Srinath Reddy 👋
 
 ⚡ **Renewable Energy Analyst** | Performance & Asset Management
+
 📍 Hyderabad, India
 
 I turn raw SCADA and generation data into performance insights for solar, wind and BESS portfolios. My day job is finding where energy is being lost, quantifying it, and helping teams recover it.
@@ -17,8 +18,10 @@ I turn raw SCADA and generation data into performance insights for solar, wind a
 
 ## 🛠️ Tools
 
-**Languages and Data:** Python (pandas, NumPy, Matplotlib) · SQL
+**Languages and data:** Python (pandas, NumPy, Matplotlib) · SQL
+
 **BI and reporting:** Power BI (DAX) · Advanced Excel
+
 **Domain:** SCADA · Solar PV · Wind · BESS
 
 ## 📂 Projects
