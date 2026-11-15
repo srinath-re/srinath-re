@@ -18,11 +18,11 @@ I turn raw SCADA and generation data into performance insights for solar, wind a
 
 ## 🛠️ Tools
 
-**Languages and data:** Python (pandas, NumPy, Matplotlib) · SQL
+- **Languages and data:** Python (pandas, NumPy, Matplotlib) · SQL
 
-**BI and reporting:** Power BI (DAX) · Advanced Excel
+- **BI and reporting:** Power BI (DAX) · Advanced Excel
 
-**Domain:** SCADA · Solar PV · Wind · BESS
+- **Domain:** SCADA · Solar PV · Wind · BESS
 
 ## 📂 Projects
 
